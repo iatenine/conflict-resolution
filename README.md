@@ -1,1 +1,2 @@
 # conflict-resolution
+some modification
